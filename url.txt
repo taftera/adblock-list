@@ -82,3 +82,8 @@ https://securemetrics.apple.com
 https://supportmetrics.apple.com
 https://metrics.mzstatic.com
 https://metrics.icloud.com
+https://samsung-com.112.2o7.net
+https://yandexadexchange.net
+https://appmetrica.yandex.com
+https://browser.sentry-cdn.com
+https://media.fastclick.net/
