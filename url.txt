@@ -87,9 +87,17 @@ https://yandexadexchange.net
 https://appmetrica.yandex.com
 https://browser.sentry-cdn.com
 https://media.fastclick.net/
+https://doubleclick.net/
+https://media.fastclick.net/
 https://analyticsengine.s3.amazonaws.com
 https://affiliationjs.s3.amazonaws.com
 https://advertising-api-eu.amazon.com
 https://advertising.twitter.com
 https://widgets.pinterest.com
 https://d.reddit.com
+https://app.bugsnag.com
+https://browser.sentry-cdn.com
+https://metrics1.data.hicloud.com
+https://metrics2.data.hicloud.com
+https://metrics5.data.hicloud.com 
+https://samsung-com.112.2o7.net
